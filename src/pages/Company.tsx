@@ -287,7 +287,7 @@ const Company = () => {
                 full-stack development, and AI-powered solutions. He has led technical teams across startups and large-scale environments, 
                 consistently delivering robust, scalable products. His strength lies in applying advanced technology to real-world business challenges, 
                 bridging the gap between innovation and execution."
-                imageSrc="/images/kushal.png"
+                imageSrc="/images/kushal-1.jpg"
                 imageAlt="Kushal Dias"
               />
             </div>
