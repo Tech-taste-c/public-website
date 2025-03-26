@@ -272,21 +272,15 @@ const Company = () => {
               <TeamMember 
                 name="Chamila Weerasekara"
                 role="Co-founder"
-                bio="A technology innovator with over 12 years of experience in software architecture and development. 
-                    Chamila specializes in scalable cloud solutions and has led teams that delivered cutting-edge 
-                    products for Fortune 500 clients. His expertise in AI and machine learning has been instrumental 
-                    in developing our data-driven service offerings."
-                imageSrc="/images/chamila.png"
+                bio="Chamila is a visionary technology leader with over 12 years of experience in software architecture, product development, and strategic execution. Known for building and scaling cloud-native solutions, he has led high-impact teams and delivered enterprise-grade products for Fortune 500 companies. His ability to align technical innovation with business priorities has been instrumental in streamlining operations and creating customer-centric solutions that drive growth."
+                imageSrc="/images/chamila-1.jpg"
                 imageAlt="Chamila Weerasekara"
               />
               
               <TeamMember 
                 name="Kushal Dias"
                 role="Co-founder"
-                bio="With over 12 years of experience in the tech industry, Kushal brings deep expertise in software engineering, 
-                full-stack development, and AI-powered solutions. He has led technical teams across startups and large-scale environments, 
-                consistently delivering robust, scalable products. His strength lies in applying advanced technology to real-world business challenges, 
-                bridging the gap between innovation and execution."
+                bio="Kushal is a results-driven engineer and entrepreneur with more than 10 years of experience spanning end-to-end software architecture, complex system design, and the integration of AI-driven technologies. He has led diverse technical teams across startups and enterprise environments, consistently delivering scalable, high-performance systems. With a keen focus on leveraging emerging technologies to address business challenges, Kushal brings a unique blend of innovation, execution, and strategic insight to every initiative."
                 imageSrc="/images/kushal-1.jpg"
                 imageAlt="Kushal Dias"
               />

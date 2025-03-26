@@ -66,7 +66,7 @@ const StickyHeader = () => {
         <Link to="/" className="flex items-center">
           <div className="flex items-center">
             <img
-              src="/images/brand-logo.JPG"
+              src="/images/brand-logo-tp.png"
               alt="TechTaste Logo"
               className="h-8 md:h-10"
             />
